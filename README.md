@@ -1,4 +1,7 @@
 # Projeto Restaurante
+![GitHub top language](https://img.shields.io/github/languages/top/andre-aps/restaurante)
+![GitHub repo size](https://img.shields.io/github/repo-size/andre-aps/restaurante)
+![GitHub last commit](https://img.shields.io/github/last-commit/andre-aps/restaurante)
 
 O projeto Restaurante foi desenvolvido utilizando a linguagem de programação C e tem o objetivo de oferecer um simples sistema para cadastro de restaurantes e pratos.
 
